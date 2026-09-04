@@ -1,0 +1,7 @@
+{
+  "yt-dlp": {
+    "version": "2026.08.19",
+    "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe",
+    "sha256": "PUT_SHA256_HERE"
+  }
+}
